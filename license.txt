@@ -1,2 +1,3 @@
 new file!
 add one line
+test checkout command 
